@@ -1,0 +1,43 @@
+body {
+    padding: 20px;
+    /* text-align: center; */
+}
+
+form {
+    text-align: center;
+    width: 400px;
+    padding: 20px;
+    border: solid 3px;
+}
+
+.element_wrap {
+    margin-bottom: 10px;
+    padding: 10px 0;
+    text-align: left;
+}
+
+.element_wrap p {
+    display: inline-block;
+    margin: 0;
+    text-align: left;
+}
+
+label {
+    display: inline-block;
+    margin-bottom: 10px;
+    width: 150px;
+}
+
+label[for="r_male"] {
+    display: inline-block;
+    margin-bottom: 10px;
+    width: 80px;
+}
+
+input[type="submit"] {
+    padding: 0 40px;
+}
+
+input[type="button"] {
+    padding: 0 40px;
+}
